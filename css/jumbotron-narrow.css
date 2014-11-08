@@ -6,12 +6,20 @@ body {
 
 h1 {
   font-family: 'Nunito', sans-serif;
-  font-weight: 400;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
 }
 
 h3 {
   font-family: 'Nunito', sans-serif;
   font-weight: 300;
+  font-size: 18px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -36,9 +44,10 @@ h3 {
 
 /* Custom page footer */
 .footer {
-  padding-top: 19px;
+  /*padding-top: 19px; */
   color: #777;
-  border-top: 1px solid #e5e5e5;
+  margin-left: 15px;
+  /* border-top: 1px solid #e5e5e5; */
 }
 
 .style-1:hover, 
